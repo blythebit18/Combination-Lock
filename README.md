@@ -1,2 +1,2 @@
-# Combination-Lock
-Push Button as Combination key 
+# Combination-Lock (Arduino Projects)
+Push Button as Combination key to unlock the solenoid 
