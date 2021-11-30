@@ -16,3 +16,6 @@ Circuit Diagram :
 
 
    ![connection](https://user-images.githubusercontent.com/61658325/144043717-76cb40ad-799b-473f-b3a7-1b80a18e4835.jpg)
+
+
+![200w](https://user-images.githubusercontent.com/61658325/144044282-47b982b8-c60f-4390-b021-2e6ed1121ffd.gif)
